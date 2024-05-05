@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/html.vs code"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "javascript.js",
+		"files.autoSave": "afterDelay",
+		"editor.fontSize": 15,
+		"testing.autoRun.delay": 1000,
+		"files.autoSaveDelay": 500
+	}
+}
